@@ -172,7 +172,7 @@
     <locale language="Russian" country="Russia"/>
    </property>
    <property name="defaultUp">
-    <bool>true</bool>
+    <bool>false</bool>
    </property>
    <property name="nativeMenuBar">
     <bool>true</bool>
@@ -184,6 +184,7 @@
     <addaction name="separator"/>
     <addaction name="separator"/>
     <addaction name="action_exit"/>
+    <addaction name="separator"/>
    </widget>
    <widget class="QMenu" name="menu_2">
     <property name="title">
